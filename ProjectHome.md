@@ -1,0 +1,1 @@
+A graphics engine developed to serve in various OS and plattforms. It's core is to be used as a graphic engine for games and visual applications.
